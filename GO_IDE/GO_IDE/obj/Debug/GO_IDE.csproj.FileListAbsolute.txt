@@ -1,0 +1,17 @@
+d:\users\vule\documents\visual studio 2015\Projects\GO_IDE\GO_IDE\bin\Debug\GO_IDE.exe.config
+d:\users\vule\documents\visual studio 2015\Projects\GO_IDE\GO_IDE\bin\Debug\GO_IDE.exe
+d:\users\vule\documents\visual studio 2015\Projects\GO_IDE\GO_IDE\bin\Debug\GO_IDE.pdb
+d:\users\vule\documents\visual studio 2015\Projects\GO_IDE\GO_IDE\obj\Debug\GO_IDE.csprojResolveAssemblyReference.cache
+d:\users\vule\documents\visual studio 2015\Projects\GO_IDE\GO_IDE\obj\Debug\GO_IDE.Properties.Resources.resources
+d:\users\vule\documents\visual studio 2015\Projects\GO_IDE\GO_IDE\obj\Debug\GO_IDE.csproj.GenerateResource.Cache
+d:\users\vule\documents\visual studio 2015\Projects\GO_IDE\GO_IDE\obj\Debug\GO_IDE.exe
+d:\users\vule\documents\visual studio 2015\Projects\GO_IDE\GO_IDE\obj\Debug\GO_IDE.pdb
+d:\users\vule\documents\visual studio 2015\Projects\GO_IDE\GO_IDE\bin\Debug\Newtonsoft.Json.dll
+d:\users\vule\documents\visual studio 2015\Projects\GO_IDE\GO_IDE\bin\Debug\NLog.dll
+d:\users\vule\documents\visual studio 2015\Projects\GO_IDE\GO_IDE\bin\Debug\Newtonsoft.Json.xml
+d:\users\vule\documents\visual studio 2015\Projects\GO_IDE\GO_IDE\bin\Debug\NLog.xml
+d:\users\vule\documents\visual studio 2015\Projects\GO_IDE\GO_IDE\obj\Debug\GO_IDE.MainForm.resources
+d:\users\vule\documents\visual studio 2015\Projects\GO_IDE\GO_IDE\obj\Debug\GO_IDE.Settings.SettingsForm.resources
+D:\Users\Vule\Documents\Visual Studio 2015\Projects\GO_IDE\GO_IDE\bin\Debug\ScintillaNET.dll
+D:\Users\Vule\Documents\Visual Studio 2015\Projects\GO_IDE\GO_IDE\bin\Debug\ScintillaNET.xml
+D:\Users\Vule\Documents\Visual Studio 2015\Projects\GO_IDE\GO_IDE\obj\Debug\GO_IDE.Project_Manager.NewProjectForm.resources
